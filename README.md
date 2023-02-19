@@ -23,10 +23,9 @@ Aplikasi perhitungan stock
 - Minimal Android 8
 
 ## Screenshoot
-<img src="https://github.com/olizyusuf/stockopname_app/raw/master/assets/screenshoot/01.png" width="250" /><img src="https://github.com/olizyusuf/stockopname_app/raw/master/assets/screenshoot/02.png" width="250" />
-<img src="https://github.com/olizyusuf/stockopname_app/raw/master/assets/screenshoot/03.png" width="250" /><img src="https://github.com/olizyusuf/stockopname_app/raw/master/assets/screenshoot/04.png" width="250" />
-<img src="https://github.com/olizyusuf/stockopname_app/raw/master/assets/screenshoot/05.png" width="250" /><img src="https://github.com/olizyusuf/stockopname_app/raw/master/assets/screenshoot/06.png" width="250" />
-<img src="https://github.com/olizyusuf/stockopname_app/raw/master/assets/screenshoot/07.png" width="250" />
+<img src="https://raw.githubusercontent.com/olizyusuf/portofolio/master/images/stockcount/1_google-pixel4-justblack-portrait.png" width="250" /><img src="https://raw.githubusercontent.com/olizyusuf/portofolio/master/images/stockcount/2_google-pixel4-justblack-portrait.png" width="250" />
+<img src="https://raw.githubusercontent.com/olizyusuf/portofolio/master/images/stockcount/3_google-pixel4-justblack-portrait.png" width="250" /><img src="https://raw.githubusercontent.com/olizyusuf/portofolio/master/images/stockcount/4_google-pixel4-justblack-portrait.png" width="250" />
+<img src="https://raw.githubusercontent.com/olizyusuf/portofolio/master/images/stockcount/5_google-pixel4-justblack-portrait.png" width="250" />
 
 need apk and license key for export data.
 If you need request you can email @ olizyusuf22@gmail.com
